@@ -33,8 +33,8 @@
 #define LANG_WEBSRV_TITLE "Configuratie"
 #define LANG_WEBSRV_USER "Gebruiker:"
 #define LANG_WEBSRV_PASS "Wachtwoord:"
-#define LANG_WEBSRV_APP_PASSWORD_ON "AutoAP WW AAN"
-#define LANG_WEBSRV_APP_PASSWORD_ON "AutoAP WW UIT"
+#define LANG_WEBSRV_AP_PASSWORD_ON "AutoAP WW AAN"
+#define LANG_WEBSRV_AP_PASSWORD_OFF "AutoAP WW UIT"
 
 // App: Watchface Parent Class
 #define LANG_WATCHFACE_DEFAULT_SET "Standaard klokweergave\naangepast."
